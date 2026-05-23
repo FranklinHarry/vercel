@@ -1,5 +1,13 @@
 # vercel
 
+## 54.4.2
+
+### Patch Changes
+
+- 620bcfa: Add `--type`, `--service`, and `--search` filter flags to `vercel connect list`.
+- Updated dependencies [1318682]
+  - @vercel/python@6.43.2
+
 ## 54.4.1
 
 ### Patch Changes
